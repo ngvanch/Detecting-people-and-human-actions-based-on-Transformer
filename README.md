@@ -1,5 +1,5 @@
 # 
-# Project: Detecting-people-and-human-actions-based-on-Transformer
+# Project: Mô hình phát hiện người và hành động người dựa vào kiến trúc Transformer
 
 # Thông tin nhóm
 | MSSV | Họ và Tên |
